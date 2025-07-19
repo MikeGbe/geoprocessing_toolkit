@@ -1,5 +1,7 @@
-# Image Processing with Google Earth Engine
+# Image Processing 
+Includes processing of satellite images [spectral indices (NDVI), cloud masking, compositing, sharpening, filtering, etc.]
 
+## With Google Earth Engine
 This module uses the Earth Engine Python API to filter, process, and export Landsat 8 imagery over a defined area using a GeoJSON file.
 
 ## Features
