@@ -1,3 +1,3 @@
-# GeoSpatial_Scripts
+# Geo-Scripting Lab
 
-Collection of Python scripts utilizing open source geospatial packages
+A collection of Python and SQL tools for geospatial analysis.
